@@ -112,7 +112,7 @@ init();
 const clearBookmarks = function () {
   localStorage.clear('bookmarks');
 };
-// clearBookmarks();
+
 
 export const uploadRecipe = async function (newRecipe) {
   try {
