@@ -18,7 +18,7 @@ Technologies used in the project:
 <img src="./src/img/1st.png" alt="project-screenshot" width="400" height="400/">
 <img src="./src/img/2nd.png" alt="project-screenshot" width="400" height="400/">
 <img src="./src/img/3rd.png" alt="project-screenshot" width="400" height="400/">
-<img src="./src/img/4th.png" alt="project-screenshot" width="400" height="400/">
+<img src="./src/img/4th.png" alt="project-screenshot" >
 
   
 
